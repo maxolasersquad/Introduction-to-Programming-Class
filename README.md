@@ -1,1 +1,6 @@
 # Introduction-to-Programming-Class
+This is a five hour programming course, broken up into five one-hour days. It is designed to teach the very basic concepts of computer science to individuals who have no previous experience with programming. This class uses the Python programming language, but is intentended to teach programming concepts, not specifically Python.
+
+It is the goal of this class to leave students with enough knowledge that they can pick up a programming book in the language of their choice and feel comfortable getting started. Because of this the class attempts to avoid spending too much time explaining the specifics of Python outside of how it relates to programming in general. Lots of details are intentionally not taught because those details vary from language-to-language. With some comfort in programming basics, students should find discovering these details to be easier than if they also had no basis for the basic concepts those details implement.
+
+Over time what may be the worst video game in the world is written. This game is intended to show how these concepts come together to build programs in a practical way. As new concepts are introduced, the game is enhanced, utilizing the new concepts. At the end we have a hero who fights a monster until one of the two are deceased.
